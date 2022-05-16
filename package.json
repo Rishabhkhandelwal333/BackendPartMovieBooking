@@ -28,6 +28,7 @@
     "https-browserify": "^1.0.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.3.1",
+    "node": "^17.7.2",
     "nodemailer": "^6.7.3",
     "nodemon": "^2.0.15",
     "os": "^0.1.2",
